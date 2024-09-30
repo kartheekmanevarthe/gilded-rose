@@ -15,6 +15,9 @@ import java.util.List;
 @Controller
 public class GildedRoseController {
 
+    public GildedRoseController() {
+    }
+
     /**
      * Accepts a json payload of items
      *
